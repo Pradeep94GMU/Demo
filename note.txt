@@ -1,0 +1,2 @@
+Notes :
+1) inside for loop.. i can use any condition and it will not depends on i only.. for example if i am intializing i = 0 then for condition to exit the loop can be anything ..String[i] = 10 then it will exit the loops else wll continue
